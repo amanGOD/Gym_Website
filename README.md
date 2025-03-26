@@ -8,7 +8,6 @@ This is a simple gym website created using HTML and CSS. The project includes a 
 gym-website/
 │-- index.html      # Homepage of the gym website
 │-- style.css       # Stylesheet for the website
-│-- images/         # (Optional) Directory for images
 ```
 
 ## Features
@@ -19,7 +18,7 @@ gym-website/
 ## Installation
 1. Clone this repository or download the ZIP file.
    ```sh
-   git clone https://github.com/yourusername/gym-website.git
+   https://github.com/amanGOD/Gym_Website.git
    ```
 2. Open the project folder.
 3. Open `index.html` in a web browser to view the website.
