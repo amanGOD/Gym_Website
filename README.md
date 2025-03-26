@@ -18,7 +18,7 @@ gym-website/
 ## Installation
 1. Clone this repository or download the ZIP file.
    ```sh
-   https://github.com/amanGOD/Gym_Website.git
+   git clone https://github.com/amanGOD/Gym_Website.git
    ```
 2. Open the project folder.
 3. Open `index.html` in a web browser to view the website.
